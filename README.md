@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Developing the Product aggregator app
 
-See the [Develop](./DEVELOP.md) file.
+See the [Develop](./DEVELOP.md) file for notes.
 
 ## Available Scripts
 
