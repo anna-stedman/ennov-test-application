@@ -1,4 +1,4 @@
-version: '3.4'
+version: '1.0'
 
 services:
   ennovtestapp:
@@ -6,7 +6,5 @@ services:
     build:
       context: ennov-test-app
       dockerfile: ./Dockerfile
-    environment:
-      NODE_ENV: production
     ports:
       - 3000:3000

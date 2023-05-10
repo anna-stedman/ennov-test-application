@@ -13,3 +13,7 @@ I decided to concern myself with the project architecture and set up first. I in
 I then tried to add docker files - vscode provided a template and I followed instructions online. As stated above, I haven't used docker before and didn't have it installed on my personal laptop so was unable to verify that anything was working, and haven't been able to generate a docker image.
 
 I next tried to set up the testing library and create an initial test for the only function that I had time to write. Running the function in the test does print out the Products from the csv file, but the function is not fully tested and more edge cases would have to be thoroughly tested and the code potentially tweaked to fix issues (e.g. invalid file paths, empty fields, unicode characters).
+
+
+## Further work
+I got Docker installed and got a basic image created and pushed to DockerHub.
