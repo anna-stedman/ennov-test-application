@@ -16,4 +16,12 @@ I next tried to set up the testing library and create an initial test for the on
 
 
 ## Further work
-I got Docker installed and got a basic image created and pushed to DockerHub.
+I got Docker installed and got a basic image created using the updated Dockerfile.
+
+Spent another 2-3hrs refining tests, improving the csv reader and implementing filters.
+Further work would be required to fix the error handling on the csv parser, and finally some form of interacting with the logic via a front end or table.
+Given the restriction of the assignment to using typescript, I have decided to focus on the solution set up and fundamental logic.
+
+If there were no restriction to typescript, I may have gone about the problem in a slightly different way. 
+I have used Python Pandas for ETL purposes previously and this can output tables for the end user to interact with.
+If a nice user interface were the main aim, I would have used mui or bootstrap react tables, which have filtering built in to some extent. 
